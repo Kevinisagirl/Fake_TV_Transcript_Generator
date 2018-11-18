@@ -1,0 +1,49 @@
+root@e7deae60a984:~/torch-rnn# th sample.lua -checkpoint cv/checkpoint_38000.t7 -length 2000 -gpu -1
+5:Ite eather, er, I increase One, Commander, who back once of here.
+RIKER:I do.
+CRUSHER:Then. Your scalistsion condumbolift.
+PICARD:Worf, in fast.
+PICARD:The new creaters? Contact of what just being trations. The DNA I have profose imfusion. Please remains to you there. Can you do the faulties to negeing from up Counsellor? A facts would have the poes Worf, right badly have located to all right all this wrong about. In a lot with Romulans don't understand, sir.
+PICARD:Data, we still answer. I promise our things. I can't request that you can't think about them.
+Q:Booth.
+RIKER:What's this way.
+RIKER:Is you kept function. I see her break life geverted.
+PICARD:Well, I present of quantable by no've more strong with your appristies.
+NERAL:Understergon with them, Ambassador's log. I will use this.
+PICARD:Can't you like them to me one life? You made them if he can, fall concerned anywhere. But he'll caulanding field.
+RIKER:Come to the impair in the data burden to help until you and feelings?
+TROI:That's what you touch back to your dummind forward anywhere.
+DATA:Yes, better. Yes.
+DOTAM:What can't see my preson?
+CRUSHER:You're appear proceduid.
+RIKER:Ah I have being to ghients open, sir. It's luriors. Hull instromether. Explain frequency two putsmal. I just feel this medical records.
+TASHA:I'm log, stop it. Perhaps we will interess Achould be in any prouding Gach die to fire and Enterprise. What do you need my hell. I thought your incident. Dictory, troigals that we want. Mister Lal, do we could like it and sputure of your way to tell you, that's not. DAyed you, Data, impudence, I am another device of seems to mention as we have William Empire, we are discorting a terminate the computer efficient living the night. She has continued left out of the worthing probable get my leaving out integrite of used. Ambassador.
+RIKER:All right in them, won't give until for you back.
+PICARD:Well, autondable normal.
+PICARD:I'm cleans in a modified.
+TROI:You spec. Help your lytim, either.
+HEV
+
+root@e7deae60a984:~/torch-rnn# th sample.lua -checkpoint cv/checkpoint_38000.t7 -length 2000 -gpu -1 -temperature 0.7
+waiting more and there was many of the ship are.
+PICARD:Is that this to name in me a lot of the planet under of the Tainer patterntly to an artificial later.
+TROI:The molecular control into it.
+PICARD:I see what you all right. I must haven't grow me and do you didn't a very personal distance.
+SPOCK:You were a complete that way, may intentions will not be able to her on the time our father at an alien.
+PICARD:Now what is you are any need me to shot step. I've got to go in the battle and stations.
+RIKER:In first of the ship with the brought angration from the antiles to different police. The artefact of the pattern detecting in those viewer. They're not or disturbing strept the deal of a discontinue personal correct.
+Q:We believe something to them.
+PICARD:On screen.
+LAFORGE:Yeah.
+KAREEN:The energy decision, Worf, may have been being place.
+PICARD:Proceed into the higher to the holographic malfunctional ships are slightly wants afford with Commander Riker were on what maybe you want to have you to be smelled in the scan you've done has changed.
+PICARD:You were not such a problem on board to us.
+RIKER:The most in the Borg programme before the plasma profrain the ship.
+PICARD:And they did what he said it was as a sensor that lort some quite away that you seem to live to seventy since the doublective people. There's a command called the shields were about to meet it is painting by for now. The tractor from the transmission. First an element, I believe you must be any my completely be designations.
+BARCLAY:Good.
+PICARD:I'm sure you shall even morning. He mystery of the ship is a stations being all of the Enterprise.
+SOVAK:I have to transport friends of the dead, his new indicate.
+LAFORGE:Well, I would not go to diz. Captain. I ams out of myself.
+LAFORGE:Well, and your control life minutes of a little field and made it all right. You were see in a valuable able to one modified in the difficult in the point with you to come.
+RIKER:Well, that's right time.
+RIKER:You're a dece
