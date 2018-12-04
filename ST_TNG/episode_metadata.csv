@@ -1,0 +1,177 @@
+num_overall,num_season,Episode,stardate,director,writers,airdate,million_viewers,season
+1,1,"""Encounter at Farpoint""",41153.7,Corey Allen,"D. C. Fontana,Gene Roddenberry","September 28, 1987",15.7[1],1
+2,2,"""The Naked Now""",41209.2,Paul Lynch,"John D. F. Black,J. Michael Bingham,J. Michael Bingham","October 5, 1987",11.5[1],1
+3,3,"""Code Of Honour""",41235.25,Russ Mayberry,"Katharyn Powers,Michael Baron","October 12, 1987",9.5[1],1
+4,4,"""The Last Outpost""",41386.4,Richard Colla,"Richard Krzmeien,Herbert Wright","October 19, 1987",8.9[1],1
+5,5,"""Where No One Has Gone Before""",41263.1,Rob Bowman,"Diane Duane,Michael Reaves","October 26, 1987",10.5[1],1
+6,6,"""Lonely Among Us""",41249.3,Cliff Bole,"Michael Halperin,D. C. Fontana","November 2, 1987",12.1[1],1
+7,7,"""Justice""",41255.6,James L. Conway,"Ralph Wills,Worley Thorne,Worley Thorne","November 9, 1987",12.7[1],1
+8,8,"""The Battle""",41723.9,Rob Bowman,"Larry Forrester,Herbert Wright","November 16, 1987",10.5[1],1
+9,9,"""Hide and Q""",41590.5,Cliff Bole,"C.J. Holland,C.J. Holland,Gene Roddenberry","November 23, 1987",11.0[1],1
+10,10,"""Haven""",41294.5,Richard Compton,"Tracy Tormé,Lan O'Kun,Tracy Tormé","November 30, 1987",10.3[1],1
+11,11,"""The Big Goodbye""",41997.7,Joseph L. Scanlan,Tracy Tormé,"January 11, 1988",11.5[1],1
+12,12,"""Datalore""",41242.4,Rob Bowman,"Robert Lewin,Maurice Hurley,Robert Lewin,Gene Roddenberry","January 18, 1988",10.3[1],1
+13,13,"""Angel One""",41636.9,Michael Rhoades,Patrick Barry,"January 25, 1988",11.4[1],1
+14,14,"""11001001""",41365.9,Paul Lynch,"Maurice Hurley,Robert Lewin","February 1, 1988",10.7[1],1
+15,15,"""Too Short A Season""",41309.5,Rob Bowman,"Michael Michaelian,Michael Michaelian,D. C. Fontana","February 8, 1988",10.9[1],1
+16,16,"""When The Bough Breaks""",41509.1,Kim Manners,Hannah Louise Shearer,"February 15, 1988",10.2[1],1
+17,17,"""Home Soil""",41463.9,Corey Allen,"Karl Geurs,Ralph Sanchez,Robert Sabaroff,Robert Sabaroff","February 22, 1988",9.0[1],1
+18,18,"""Coming Of Age""",41416.2,Mike Vejar,Sandy Fries,"March 14, 1988",10.1[1],1
+19,19,"""Heart Of Glory""",41503.7,Rob Bowman,"Maurice Hurley,Herbert Wright,D. C. Fontana,Maurice Hurley","March 21, 1988",10.7[1],1
+20,20,"""The Arsenal Of Freedom""",41798.2,Les Landau,"Maurice Hurley,Robert Lewin,Richard Manning,Hans Beimler","April 11, 1988",10.4[1],1
+21,21,"""Symbiosis""",Unknown,Win Phelps,"Robert Lewin,Robert Lewin,Richard Manning,Hans Beimler","April 18, 1988",10.8[1],1
+22,22,"""Skin of Evil""",41601.3,Joseph L. Scanlan,"Joseph Stefano,Joseph Stefano,Hannah Louise Shearer","April 25, 1988",9.7[1],1
+23,23,"""We'll Always Have Paris""",41697.9,Robert Becker,"Deborah Dean Davis,Hannah Louise Shearer","May 2, 1988",9.7[1],1
+24,24,"""Conspiracy""",41775.5,Cliff Bole,"Robert Sabaroff,Tracy Tormé","May 9, 1988",9.4[1],1
+25,25,"""The Neutral Zone""",41986,James L. Conway,"Deborah McIntyre,Mona Clee,Maurice Hurley","May 16, 1988",10.2[1],1
+26,1,"""The Child""",42073.1,Rob Bowman,"Jaron Summers,Jon Povill,Maurice Hurley","November 21, 1988",10.9[2],2
+27,2,"""Where Silence Has Lease""",42193.6,Winrich Kolbe,Jack B. Sowards,"November 28, 1988",10.3[2],2
+28,3,"""Elementary, Dear Data""",42286.3,Rob Bowman,Brian Alan Lane,"December 5, 1988",Unknown[2],2
+29,4,"""The Outrageous Okona""",42402.7,Robert Becker,"Les Menchen,Lance Dickson,David Landsberg,Burton Armus","December 12, 1988",Unknown[2],2
+30,5,"""Loud As A Whisper""",42477.2,Larry Shaw,Jacqueline Zambrano,"January 9, 1989",10.7[2],2
+31,6,"""The Schizoid Man""",42437.5,Les Landau,"Richard Manning,Hans Beimler,Tracy Tormé","January 23, 1989",10.8[2],2
+32,7,"""Unnatural Selection""",42494.8,Paul Lynch,"John Mason,Mike Gray","January 30, 1989",11.0[2],2
+33,8,"""A Matter of Honour""",42506.5,Rob Bowman,"Wanda M. Haight,Gregory Amos,Burton Armus,Burton Armus","February 6, 1989",11.3[2],2
+34,9,"""The Measure Of A Man""",42523.7,Robert Scheerer,Melinda M. Snodgrass,"February 13, 1989",11.3[2],2
+35,10,"""The Dauphin""",42568.8,Rob Bowman,"Scott Rubenstein,Leonard Mlodinow","February 20, 1989",10.7[2],2
+36,11,"""Contagion""",42609.1,Joseph L. Scanlan,"Steve Gerber,Beth Woods","March 20, 1989",10.2[2],2
+37,12,"""The Royale""",42625.4,Cliff Bole,Keith Mills,"March 27, 1989",10.6[2],2
+38,13,"""Time Squared""",42679.2,Joseph L. Scanlan,"Kurt Michael Bensmiller,Maurice Hurley","April 3, 1989",9.9[2],2
+39,14,"""The Icarus Factor""",42686.4,Robert Iscove,"David Assael,David Assael,Robert McCullough","April 24, 1989",9.1[2],2
+40,15,"""Pen Pals""",42695.3,Winrich Kolbe,"Hannah Louise Shearer,Melinda M. Snodgrass","May 1, 1989",9.7[2],2
+41,16,"""Q Who?""",42761.3,Rob Bowman,Maurice Hurley,"May 8, 1989",10.3[2],2
+42,17,"""Samaritan Snare""",42779.1,Les Landau,Robert McCullough,"May 15, 1989",10.0[2],2
+43,18,"""Up The Long Ladder""",42823.2,Winrich Kolbe,Melinda M. Snodgrass,"May 22, 1989",9.2[2],2
+44,19,"""Manhunt""",42859.2,Rob Bowman,Terry Devereaux,"June 19, 1989",8.9[2],2
+45,20,"""The Emissary""",42901.3,Cliff Bole,"Richard Manning,Hans Beimler,Thomas H. Calder,Richard Manning,Hans Beimler","June 26, 1989",9.0[2],2
+46,21,"""Peak Performance""",42923.4,Robert Scheerer,David Kemper,"July 10, 1989",9.4[2],2
+47,22,"""Shades of Gray""",42976.1,Rob Bowman,"Maurice Hurley,Maurice Hurley,Richard Manning,Hans Beimler","July 17, 1989",9.8[2],2
+48,1,"""Evolution""",43125.8,Winrich Kolbe,"Michael Piller,Michael Wagner,Michael Piller","September 25, 1989",10.8[3],3
+49,2,"""The Ensigns of Command""",43133.3,Cliff Bole,Melinda M. Snodgrass,"October 2, 1989",Unknown[4],3
+50,3,"""The Survivors""",43152.4,Les Landau,Michael Wagner,"October 9, 1989",9.6[4],3
+51,4,"""Who Watches the Watchers""",43173.5,Robert Wiemer,"Richard Manning,Hans Beimler","October 16, 1989",9.6[4],3
+52,5,"""The Bonding""",43198.7,Winrich Kolbe,Ronald D. Moore,"October 23, 1989",9.9[4],3
+53,6,"""Booby Trap""",43205.6,Gabrielle Beaumont ,"Michael Wagner,Ron Roman,Ron Roman,Michael Piller,Richard Danus","October 30, 1989",11.0[4],3
+54,7,"""The Enemy""",43349.2,David Carson,"David Kemper,Michael Piller","November 6, 1989",10.3[4],3
+55,8,"""The Price""",43385.6,Robert Scheerer,Hannah Louise Shearer,"November 13, 1989",10.6[4],3
+56,9,"""The Vengeance Factor""",43421.9,Timothy Bond,Sam Rolfe,"November 20, 1989",9.7[4],3
+57,10,"""The Defector""",43462.5,Robert Scheerer,Ronald D. Moore,"January 1, 1990",10.5[4],3
+58,11,"""The Hunted""",43489.2,Cliff Bole,Robin Bernheim,"January 8, 1990",10.6[4],3
+59,12,"""The High Ground""",43510.7,Gabrielle Beaumont ,Melinda M. Snodgrass,"January 29, 1990",10.5[4],3
+60,13,"""Déjà Q""",43539.1,Les Landau,Richard Danus,"February 5, 1990",11.3[4],3
+61,14,"""A Matter of Perspective""",43610.4,Cliff Bole,Ed Zuckerman,"February 12, 1990",10.8[4],3
+62,15,"""Yesterday's Enterprise""",43625.2,David Carson,"Trent Christopher Ganino,Eric A. Stillwell,Ira Steven Behr, Richard Manning, Hans Beimler,Ronald D. Moore","February 19, 1990",11.9[4],3
+63,16,"""The Offspring""",43657,Jonathan Frakes,René Echevarria,"March 12, 1990",10.2[4],3
+64,17,"""Sins of the Father""",43685.2,Les Landau,"Drew Deighan,Ronald D. Moore,W. Reed Moran","March 19, 1990",11.1[4],3
+65,18,"""Allegiance""",43714.1,Winrich Kolbe,"Richard Manning,Hans Beimler","March 26, 1990",10.2[4],3
+66,19,"""Captain's Holiday""",43745.2,Chip Chalmers,Ira Steven Behr,"April 2, 1990",11.7[4],3
+67,20,"""Tin Man""",43779.3,Robert Scheerer,"Dennis Putman Bailey,David Bischoff","April 23, 1990",10.2[4],3
+68,21,"""Hollow Pursuits""",43807.4,Cliff Bole,Sally Caves,"April 30, 1990",9.8[4],3
+69,22,"""The Most Toys""",43872.2,Timothy Bond,Shari Goodhartz,"May 7, 1990",10.3[4],3
+70,23,"""Sarek""",43917.4,Les Landau,"Marc Cushman,Jake Jacobs ,Television Story,  Peter S. Beagle","May 14, 1990",10.6[4],3
+71,24,"""Ménage a Troi""",43930.7,Robert Legato,"Fred Bronson,Susan Sackett","May 28, 1990",9.1[4],3
+72,25,"""Transfigurations""",43957.2,Tom Benko,René Echevarria,"June 4, 1990",10.2[4],3
+73,26,"""The Best of Both Worlds, Part One""",43989.1,Cliff Bole,Michael Piller,"June 18, 1990",10.1[4],3
+74,1,"""The Best of Both Worlds Part 2""",44001.4,Cliff Bole,Michael Piller,"September 24, 1990",12.3[5],4
+75,2,"""Family""",44012.3,Les Landau,Ronald D. Moore,"October 1, 1990",9.6[5],4
+76,3,"""Brothers""",44085.7,Rob Bowman,Rick Berman,"October 8, 1990",10.9[5],4
+77,4,"""Suddenly Human""",44143.7,Gabrielle Beaumont ,"Ralph Phillips,John Whelpley,Jeri Taylor","October 15, 1990",10.3[5],4
+78,5,"""Remember Me""",44161.2,Cliff Bole,Lee Sheldon,"October 22, 1990",11.4[5],4
+79,6,"""Legacy""",44215.2,Robert Scheerer,Joe Menosky,"October 29, 1990",12.0[5],4
+80,7,"""Reunion""",44246.3,Jonathan Frakes,"Drew Deighan,Thomas Perry,Jo Perry,Thomas Perry,Jo Perry,Ronald D. Moore,Brannon Braga","November 5, 1990",12.2[5],4
+81,8,"""Future Imperfect""",44286.5,Les Landau,"J. Larry Carroll,David Bennett Carren","November 12, 1990",12.0[5],4
+82,9,"""Final Mission""",44307.3,Corey Allen,"Kacey Arnold-Ince,Kacey Arnold-Ince,Jeri Taylor","November 19, 1990",11.5[5],4
+83,10,"""The Loss""",44356.9,Chip Chalmers,"Hilary J. Bader,Hilary J. Bader,Alan J. Adler,Vanessa Greene","December 31, 1990",12.2[5],4
+84,11,"""Data's Day""",44390.1,Robert Wiemer,"Harold Apter,Harold Apter,Ronald D. Moore","January 7, 1991",11.7[5],4
+85,12,"""The Wounded""",44429.6,Chip Chalmers,"Stuart Charno,Sara Charno,Cy Chermak,Jeri Taylor","January 28, 1991",12.1[5],4
+86,13,"""Devil's Due""",44474.5,Tom Benko,"Philip LaZebnik,William Douglas Lansford,Philip LaZebnik","February 4, 1991",13.0[5],4
+87,14,"""Clues""",44502.7,Les Landau,"Bruce D. Arthurs,Bruce D. Arthurs,Joe Menosky","February 11, 1991",12.3[5],4
+88,15,"""First Contact""",44575.2,Cliff Bole,"Marc Scott Zicree,Dennis Russell Bailey,David Bischoff,Joe Menosky,Ronald D. Moore,Michael Piller","February 18, 1991",11.4[5],4
+89,16,"""Galaxy's Child""",44614.6,Winrich Kolbe,"Thomas Kartozian,Maurice Hurley","March 11, 1991",11.7[5],4
+90,17,"""Night Terrors""",44631.2,Les Landau,"Shari Goodhartz,Pamela Douglas,Jeri Taylor","March 18, 1991",11.2[5],4
+91,18,"""Identity Crisis""",44664.5,Winrich Kolbe,"Timothy DeHaas,Brannon Braga","March 25, 1991",10.9[5],4
+92,19,"""The Nth Degree""",44704.2,Robert Legato,Joe Menosky,"April 1, 1991",11.0[5],4
+93,20,"""Qpid""",44741.9,Cliff Bole,"Randee Russell,Ira Steven Behr,Ira Steven Behr","April 22, 1991",10.8[5],4
+94,21,"""The Drumhead""",44769.2,Jonathan Frakes,Jeri Taylor,"April 29, 1991",10.5[5],4
+95,22,"""Half A Life""",44805.3,Les Landau,"Ted Roberts,Peter Allan Fields,Peter Allan Fields","May 6, 1991",Unknown[5],4
+96,23,"""The Host""",44821.3,Marvin V. Rush,Michel Horvat,"May 13, 1991",11.3[5],4
+97,24,"""The Mind's Eye""",44885.5,David Livingston,"Ken Schafer,René Echevarria,René Echevarria","May 27, 1991",10.1[5],4
+98,25,"""In Theory""",44932.3,Patrick Stewart,"Joe Menosky,Ronald D. Moore","June 3, 1991",9.8[5],4
+99,26,"""Redemption""",44995.3,Cliff Bole,Ronald D. Moore,"June 17, 1991",10.9[5],4
+100,1,"""Redemption Part 2""",45021.3,David Carson,Ronald D. Moore,"September 23, 1991",N/A[6],5
+101,2,"""Darmok""",45047.2,Winrich Kolbe,"Philip LaZebnik,Joe Menosky,Joe Menosky","September 30, 1991",N/A[6],5
+102,3,"""Ensign Ro""",45076.3,Les Landau,"Rick Berman,Michael Piller,Michael Piller","October 7, 1991",11.6[6],5
+103,4,"""Silicon Avatar""",45122.3,Cliff Bole,"Lawrence V. Conley,Jeri Taylor","October 14, 1991",12.0[6],5
+104,5,"""Disaster""",45156.1,Gabrielle Beaumont,"Ron Jarvis,Philip A. Scorza,Ronald D. Moore","October 21, 1991",12.3[6],5
+105,6,"""The Game""",45208.2,Corey Allen,"Susan Sackett,Fred Bronson,Brannon Braga,Brannon Braga","October 28, 1991",13.4[6],5
+106,7,"""Unification Part 1""",45233.1,Les Landau,"Rick Berman,Michael Piller,Jeri Taylor","November 4, 1991",15.4[6],5
+107,8,"""Unification Part 2""",45245.8,Cliff Bole,"Rick Berman,Michael Piller,Michael Piller","November 11, 1991",15.4[6],5
+108,9,"""A Matter of Time""",45349.1,Paul Lynch,Rick Berman,"November 18, 1991",13.9[6],5
+109,10,"""New Ground""",45376.3,Robert Scheerer,"Sara Charno,Stuart Charno,Grant Rosenberg","January 6, 1992",11.9[6],5
+110,11,"""Hero Worship""",45397.3,Patrick Stewart,"Hilary J. Bader,Joe Menosky","January 27, 1992",12.7[6],5
+111,12,"""Violations""",45429.3,Robert Wiemer,"Shari Goodhartz,T. Michael,Pamela Gray,Pamela Gray,Jeri Taylor","February 3, 1992",12.1[6],5
+112,13,"""The Masterpiece Society""",45470.1,Winrich Kolbe,"James Kahn,Adam Belanoff,Adam Belanoff,Michael Piller","February 10, 1992",12.0[6],5
+113,14,"""Conundrum""",45494.2,Les Landau,"Paul Schiffer,Barry Schkolnick","February 17, 1992",12.2[6],5
+114,15,"""Power Play""",45571.2,David Livingston,"Paul Ruben,Maurice Hurley,René Balcer,Herbert Wright,Brannon Braga","February 24, 1992",13.2[6],5
+115,16,"""Ethics""",45587.3,Chip Chalmers,"Sara Charno,Stuart Charno,Ronald D. Moore","March 2, 1992",12.6[6],5
+116,17,"""The Outcast""",45614.6,Robert Scheerer,Jeri Taylor,"March 16, 1992",12.3[6],5
+117,18,"""Cause and Effect""",45652.1,Jonathan Frakes,Brannon Braga,"March 23, 1992",13.0[6],5
+118,19,"""The First Duty""",45703.9,Paul Lynch,"Ronald D. Moore,Naren Shankar","March 30, 1992",12.1[6],5
+119,20,"""Cost of Living""",45733.6,Winrich Kolbe,Peter Allan Fields,"April 20, 1992",11.7[6],5
+120,21,"""The Perfect Mate""",45761.3,Cliff Bole,"René Echevarria,Gary Perconte,Gary Perconte,Michael Piller","April 27, 1992",10.8[6],5
+121,22,"""Imaginary Friend""",45852.1,Gabrielle Beaumont,"Jean Louise Matthias,Ronald Wilkerson,Richard Fliegel,Edithe Swensen,Brannon Braga","May 4, 1992",12.1[6],5
+122,23,"""I, Borg""",45854.2,Robert Lederman,René Echevarria,"May 11, 1992",12.8[6],5
+123,24,"""The Next Phase""",45892.4,David Carson,Ronald D. Moore,"May 18, 1992",11.7[6],5
+124,25,"""The Inner Light""",45944.1,Peter Lauritson,"Morgan Gendel,Morgan Gendel,Peter Allan Fields","June 1, 1992",11.1[6],5
+125,26,"""Time's Arrow, part 1""",45959.1,Les Landau,"Joe Menosky,Joe Menosky,Michael Piller","June 15, 1992",11.8[6],5
+126,1,"""Time's Arrow, part 2""",46001.3,Les Landau,"Joe Menosky,Jeri Taylor","September 21, 1992",13.8[7],6
+127,2,"""Realm of Fear""",46041.1,Cliff Bole,Brannon Braga,"September 28, 1992",13.2[7],6
+128,3,"""Man of The People""",46071.6,Winrich Kolbe,Frank Abatemarco,"October 5, 1992",13.2[7],6
+129,4,"""Relics""",46125.3,Alexander Singer,Ronald D. Moore,"October 12, 1992",13.9[7],6
+130,5,"""Schisms""",46154.2,Robert Wiemer,"Jean Louise Matthias,Ronald Wilkerson,Brannon Braga","October 19, 1992",13.2[7],6
+131,6,"""True Q""",46192.3,Robert Scheerer,René Echevarria,"October 26, 1992",13.7[7],6
+132,7,"""Rascals""",46235.7,Adam Nimoy,"Ward Botsford,Diana Dru Botsford,Michael Piller,Allison Hock","November 2, 1992",13.5[7],6
+133,8,"""A Fistful of Datas""",46271.5,Patrick Stewart,"Robert Hewitt Wolfe,Robert Hewitt Wolfe,Brannon Braga","November 9, 1992",13.4[7],6
+134,9,"""The Quality of Life""",46307.2,Jonathan Frakes,Naren Shankar,"November 16, 1992",13.2[7],6
+135,10,"""Chain of Command, part one""",46357.4,Robert Scheerer,"Frank Abatemarco,Ronald D. Moore","December 14, 1992",10.2[7],6
+136,11,"""Chain of Command, Part 2""",46360.8,Les Landau,Frank Abatemarco,"December 21, 1992",12.9[7],6
+137,12,"""Ship in a Bottle""",46424.1,Alexander Singer,René Echevarria,"January 25, 1993",11.3[7],6
+138,13,"""Aquiel""",46461.3,Cliff Bole,"Jeri Taylor,Brannon Braga,Ronald D. Moore","February 1, 1993",14.1[7],6
+139,14,"""Face of the Enemy""",46519.1,Gabrielle Beaumont,"René Echevarria,Naren Shankar","February 8, 1993",13.1[7],6
+140,15,"""Tapestry""",Unknown,Les Landau,Ronald D. Moore,"February 15, 1993",13.8[7],6
+141,16,"""Birthright, part 1""",46578.4,Winrich Kolbe,Brannon Braga,"February 22, 1993",13.2[7],6
+142,17,"""Birthright part 2""",46579.2,Dan Curry,René Echevarria,"March 1, 1993",13.4[7],6
+143,18,"""Starship Mine""",46682.4,Cliff Bole,Morgan Gendel,"March 29, 1993",13.0[7],6
+144,19,"""Lessons""",46693.1,Robert Wiemer,"Ronald Wilkerson,Jean Louise Matthias","April 5, 1993",12.2[7],6
+145,20,"""The Chase""",46731.5,Jonathan Frakes,"Ronald D. Moore,Joe Menosky,Joe Menosky","April 26, 1993",11.2[7],6
+146,21,"""Frame of Mind""",46778.1,James L. Conway,Brannon Braga,"May 3, 1993",11.4[7],6
+147,22,"""Suspicions""",46830.1,Cliff Bole,"Joe Menosky,Naren Shankar","May 10, 1993",11.3[7],6
+148,23,"""Rightful Heir""",46852.2,Winrich Kolbe,"James E. Brooks,Ronald D. Moore","May 17, 1993",10.6[7],6
+149,24,"""Second Chances""",46915.2,LeVar Burton,"Michael A. Medlock,René Echevarria","May 24, 1993",9.7[7],6
+150,25,"""Timescape""",46944.2,Adam Nimoy,Brannon Braga,"June 14, 1993",11.6[7],6
+151,26,"""Descent, part 1""",46982.1,Alexander Singer,"Jeri Taylor,Ronald D. Moore","June 21, 1993",11.7[7],6
+152,1,"""Descent, part 2""",47025.4,Alexander Singer,René Echevarria,"September 20, 1993",13.0[8],7
+153,2,"""Liaisons""",Unknown,Cliff Bole,"Roger Eschbacher,Jaq Greenspon,Jeanne Carrigan-Fauci,Lisa Rich","September 27, 1993",12.2[8],7
+154,3,"""Interface""",47215.5,Robert Wiemer,Joe Menosky,"October 4, 1993",11.7[8],7
+155,4,"""Gambit part 1""",47135.2,Peter Lauritson,"Christopher Hatton,Naren Shankar,Naren Shankar","October 11, 1993",11.9[8],7
+156,5,"""Gambit part 2""",47160.1,Alexander Singer,"Naren Shankar,Ronald D. Moore","October 18, 1993",12.0[8],7
+157,6,"""Phantasms""",47225.7,Patrick Stewart,Brannon Braga,"October 25, 1993",12.2[8],7
+158,7,"""Dark Page""",47254.1,Les Landau,Hilary J. Bader,"November 1, 1993",11.6[8],7
+159,8,"""Attached""",47304.2,Jonathan Frakes,Nicholas Sagan,"November 8, 1993",12.1[8],7
+160,9,"""Force of Nature""",47310.2,Robert Lederman,Naren Shankar,"November 15, 1993",11.9[8],7
+161,10,"""Inheritance""",47410.2,Robert Scheerer,"Dan Koeppel,Dan Koeppel,René Echevarria","November 22, 1993",11.6[8],7
+162,11,"""Parallels""",47391.2,Robert Wiemer,Brannon Braga,"November 29, 1993",12.8[8],7
+163,12,"""The Pegasus""",47457.1,LeVar Burton,Ronald D. Moore,"January 10, 1994",11.9[8],7
+164,13,"""Homeward""",47423.9,Alexander Singer,"Spike Steingasser,Naren Shankar","January 17, 1994",11.8[8],7
+165,14,"""Sub Rosa""",Unknown,Jonathan Frakes,"Jeri Taylor,Brannon Braga","January 31, 1994",11.5[8],7
+166,15,"""Lower Decks""",47566.7,Gabrielle Beaumont ,"Ronald Wilkerson,Jean Louise Matthias,René Echevarria","February 7, 1994",11.9[8],7
+167,16,"""Thine Own Self""",47611.2,Winrich Kolbe,"Christopher Hatton,Ronald D. Moore","February 14, 1994",11.4[8],7
+168,17,"""Masks""",47615.2-47618.4,Robert Wiemer,Joe Menosky,"February 21, 1994",11.8[8],7
+169,18,"""Eye Of The Beholder""",47622.1,Cliff Bole,"Brannon Braga,René Echevarria","February 28, 1994",13.3[8],7
+170,19,"""Genesis""",47653.2,Gates McFadden,Brannon Braga,"March 21, 1994",11.3[8],7
+171,20,"""Journey's End""",47751.2,Corey Allen,Ronald D. Moore,"March 28, 1994",11.9[8],7
+172,21,"""Firstborn""",47779.4,Jonathan West,"Mark Kalbfeld,René Echevarria","April 25, 1994",11.4[8],7
+173,22,"""Bloodlines""",47829.1,Les Landau,Nicholas Sagan,"May 2, 1994",11.3[8],7
+174,23,"""Emergence""",47869.2,Cliff Bole,"Brannon Braga,Joe Menosky","May 9, 1994",11.3[8],7
+175,24,"""Preemptive Strike""",47941.7,Patrick Stewart,"Naren Shankar,René Echevarria","May 16, 1994",11.8[8],7
+176,25,"""All Good Things""",47988,Winrich Kolbe,"Ronald D. Moore,Brannon Braga","May 23, 1994",17.4[8],7
